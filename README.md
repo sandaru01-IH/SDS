@@ -1,9 +1,4 @@
-
-Built by https://www.blackbox.ai
-
----
-
-# SPATIO - Spatial Data Systems
+SPATIO - Spatial Data Systems
 
 ## Project Overview
 SPATIO is a web application designed to provide exceptional solutions in spatial data management. The platform emphasizes accuracy and reliability, ensuring precise outcomes in data collection and analysis, which are crucial for industries relying on spatial data. This project serves not only as a functional tool but also as an informative portal about the services offered by SPATIO.
